@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Деноминация BYR_BUR</string>
+    <string name="text_view_before">До деноминации :</string>
+    <string name="text_view_after">После деноминации :</string>
+    <string name="btn_denomin">Деноминировать</string>
+    <string name="mln">млн</string>
+    <string name="thouth">тыс </string>
+
+
+</resources>
