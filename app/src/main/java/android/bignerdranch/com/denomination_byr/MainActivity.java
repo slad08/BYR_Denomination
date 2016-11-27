@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_new);
-
+ //Это первая версия проекта после в репозитории
         EditTxtBeforDenon = (EditText) findViewById(R.id.Edittxt_view_befor);
      txtViewKopeik = (TextView)findViewById(R.id.txt_view_res_kopei);
 
